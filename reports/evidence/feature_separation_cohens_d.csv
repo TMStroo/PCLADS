@@ -1,0 +1,12 @@
+feature,cohens_d
+confidence,0.03207115335010686
+words_per_second,0.11906893849768427
+ivr_turn_count,0.366734973541804
+unknown_turn_count,0.5212854858886679
+unique_redaction_token_count,1.011159863859653
+customer_turn_count,1.011980890943833
+agent_turn_count,1.236953485339249
+redaction_token_count,1.2986776468292707
+turn_count,1.3359334882409952
+word_count,1.3502062123376233
+audio_duration_seconds,1.3678197130741183
