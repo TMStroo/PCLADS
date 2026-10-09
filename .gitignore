@@ -1,0 +1,4 @@
+#ignore python enviroment file:
+.venv
+gitignore
+call_anomaly_results.csv
